@@ -57,26 +57,18 @@
     <a href="mailto:ciro.lavoro97@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://wa.me/393461596267"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </p>
-
-<h1 align="center">Fun fact ⚡</h1>
-<p align="center">
-    I'm attending an advanced professional training course at Boolean.
-</p>
-<p align="center">
-    I'm passionate about the aeronautical world 🛩️
-</p>
     
 <h1 align="center">My Github Stats ✨</h1>
 <p align="center" dir="auto">
-  <a target="_blank" href="https://github.com/Ciro97cu/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=Ciro97cu&show_icons=true&theme=synthwave" style="max-width: 100%;">
+  <a target="_blank" href="https://github.com/LorenzoPrimogeri/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=LorenzoPrimogeri&show_icons=true&theme=synthwave" style="max-width: 100%;">
     </a>
-  <a target="_blank" href="https://github.com/Ciro97cu/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ciro97cu&theme=synthwave" style="max-width: 100%;">
+  <a target="_blank" href="https://github.com/LorenzoPrimogeri/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LorenzoPrimogeri&theme=synthwave" style="max-width: 100%;">
     </a>
 </p>
 
-![snake gif](https://github.com/Ciro97cu/Ciro97cu/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/LorenzoPrimogeri/LorenzoPrimogeri/blob/output/github-contribution-grid-snake.svg)
 
 <hr/>
 <p align="center">🦆 <i>p.s. Copy and paste is a very powerful tool</i> 💜</p>
